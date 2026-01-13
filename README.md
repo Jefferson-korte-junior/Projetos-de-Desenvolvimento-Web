@@ -180,3 +180,33 @@ O objetivo deste projeto foi consolidar os conceitos básicos de **desenvolvimen
 Este conhecimento complementa minha formação em computação e meu foco atual em **Ciência de Dados, Engenharia de Dados e Inteligência Artificial**.
 
 
+
+# PROJETO "Sistema de Cadastro Escolar"
+
+Este projeto é um pequeno sistema web desenvolvido com **PHP, MySQL, HTML e CSS**, criado com o objetivo de praticar e demonstrar conhecimentos fundamentais em desenvolvimento web.
+
+Realizei este sistema **nos meus primeiros dias como desenvolvedor de software na Prefeitura de Santa Helena**, como parte do meu aprendizado prático com **phpMyAdmin, PHP, MySQL, HTML e CSS**.  
+O projeto me ajudou a compreender na prática a integração entre o **front-end e o back-end**, além do funcionamento do banco de dados e da manipulação de registros via PHP.
+
+---
+
+## Funcionalidades
+
+- **Página inicial (`index.php`)**: apresenta o menu de navegação e o acesso às seções do sistema.  
+- **Listagem de escolas (`listaEscola.php`)**: exibe todas as escolas cadastradas no banco, com opção de edição.  
+- **Cadastro/Edição de escola (`cadEscola.php`)**: permite adicionar novas escolas ou editar registros existentes.  
+- **Estilo (`style.css`)**: define a aparência das páginas, tabelas e formulários, deixando o layout mais limpo e moderno.  
+- **Conexão com banco (`conexao.php`)**: centraliza a criação da conexão via PDO (arquivo não enviado, mas usado nos scripts).  
+
+---
+
+## Conceitos aplicados
+
+- Sessões PHP para controle de acesso.  
+- PDO com parâmetros nomeados (prevenindo SQL Injection).  
+- HTML semântico e formulários funcionais.  
+- Reuso de componentes e estrutura de navegação.  
+- Boas práticas básicas de UX (cores, espaçamento, legibilidade).  
+
+
+
